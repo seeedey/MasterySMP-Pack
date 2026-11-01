@@ -1,0 +1,33 @@
+{
+  "textures": {
+    "m": "mastery:item/fx_sky",
+    "particle": "mastery:item/fx_sky"
+  },
+  "elements": [
+    {
+      "from": [
+        0,
+        0,
+        8
+      ],
+      "to": [
+        16,
+        16,
+        8
+      ],
+      "shade": false,
+      "faces": {
+        "south": {
+          "uv": [
+            4,
+            4,
+            12,
+            12
+          ],
+          "texture": "#m",
+          "tintindex": 0
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,903 @@
+{
+  "textures": {
+    "tex": "mastery:item/sword_stone",
+    "particle": "mastery:item/sword_stone"
+  },
+  "texture_size": [
+    128,
+    128
+  ],
+  "elements": [
+    {
+      "name": "foot",
+      "from": [
+        -4,
+        0,
+        -4
+      ],
+      "to": [
+        20,
+        3,
+        20
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            0.0,
+            0.0,
+            3.0,
+            0.375
+          ],
+          "texture": "#tex"
+        },
+        "south": {
+          "uv": [
+            3.0,
+            0.0,
+            6.0,
+            0.375
+          ],
+          "texture": "#tex"
+        },
+        "east": {
+          "uv": [
+            6.0,
+            0.0,
+            9.0,
+            0.375
+          ],
+          "texture": "#tex"
+        },
+        "west": {
+          "uv": [
+            9.0,
+            0.0,
+            12.0,
+            0.375
+          ],
+          "texture": "#tex"
+        },
+        "up": {
+          "uv": [
+            12.0,
+            0.0,
+            15.0,
+            3.0
+          ],
+          "texture": "#tex"
+        },
+        "down": {
+          "uv": [
+            0.0,
+            3.0,
+            3.0,
+            6.0
+          ],
+          "texture": "#tex"
+        }
+      }
+    },
+    {
+      "name": "skirt",
+      "from": [
+        -2,
+        3,
+        -3
+      ],
+      "to": [
+        18,
+        7,
+        19
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            3.0,
+            3.0,
+            5.5,
+            3.5
+          ],
+          "texture": "#tex"
+        },
+        "south": {
+          "uv": [
+            5.5,
+            3.0,
+            8.0,
+            3.5
+          ],
+          "texture": "#tex"
+        },
+        "east": {
+          "uv": [
+            8.0,
+            3.0,
+            10.75,
+            3.5
+          ],
+          "texture": "#tex"
+        },
+        "west": {
+          "uv": [
+            10.75,
+            3.0,
+            13.5,
+            3.5
+          ],
+          "texture": "#tex"
+        },
+        "up": {
+          "uv": [
+            13.5,
+            3.0,
+            16.0,
+            5.75
+          ],
+          "texture": "#tex"
+        },
+        "down": {
+          "uv": [
+            0.0,
+            6.0,
+            2.5,
+            8.75
+          ],
+          "texture": "#tex"
+        }
+      }
+    },
+    {
+      "name": "body",
+      "from": [
+        0,
+        7,
+        -1
+      ],
+      "to": [
+        16,
+        12,
+        17
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            2.5,
+            6.0,
+            4.5,
+            6.625
+          ],
+          "texture": "#tex"
+        },
+        "south": {
+          "uv": [
+            4.5,
+            6.0,
+            6.5,
+            6.625
+          ],
+          "texture": "#tex"
+        },
+        "east": {
+          "uv": [
+            6.5,
+            6.0,
+            8.75,
+            6.625
+          ],
+          "texture": "#tex"
+        },
+        "west": {
+          "uv": [
+            8.75,
+            6.0,
+            11.0,
+            6.625
+          ],
+          "texture": "#tex"
+        },
+        "up": {
+          "uv": [
+            11.0,
+            6.0,
+            13.0,
+            8.25
+          ],
+          "texture": "#tex"
+        },
+        "down": {
+          "uv": [
+            13.0,
+            6.0,
+            15.0,
+            8.25
+          ],
+          "texture": "#tex"
+        }
+      },
+      "rotation": {
+        "origin": [
+          8,
+          8,
+          8
+        ],
+        "axis": "y",
+        "angle": 11
+      }
+    },
+    {
+      "name": "shoulder",
+      "from": [
+        2,
+        12,
+        2
+      ],
+      "to": [
+        14,
+        15,
+        14
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            0.0,
+            8.75,
+            1.5,
+            9.125
+          ],
+          "texture": "#tex"
+        },
+        "south": {
+          "uv": [
+            1.5,
+            8.75,
+            3.0,
+            9.125
+          ],
+          "texture": "#tex"
+        },
+        "east": {
+          "uv": [
+            3.0,
+            8.75,
+            4.5,
+            9.125
+          ],
+          "texture": "#tex"
+        },
+        "west": {
+          "uv": [
+            4.5,
+            8.75,
+            6.0,
+            9.125
+          ],
+          "texture": "#tex"
+        },
+        "up": {
+          "uv": [
+            6.0,
+            8.75,
+            7.5,
+            10.25
+          ],
+          "texture": "#tex"
+        },
+        "down": {
+          "uv": [
+            7.5,
+            8.75,
+            9.0,
+            10.25
+          ],
+          "texture": "#tex"
+        }
+      }
+    },
+    {
+      "name": "lip",
+      "from": [
+        4,
+        15,
+        5
+      ],
+      "to": [
+        12,
+        16,
+        11
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            9.0,
+            8.75,
+            10.0,
+            8.875
+          ],
+          "texture": "#tex"
+        },
+        "south": {
+          "uv": [
+            10.0,
+            8.75,
+            11.0,
+            8.875
+          ],
+          "texture": "#tex"
+        },
+        "east": {
+          "uv": [
+            11.0,
+            8.75,
+            11.75,
+            8.875
+          ],
+          "texture": "#tex"
+        },
+        "west": {
+          "uv": [
+            11.75,
+            8.75,
+            12.5,
+            8.875
+          ],
+          "texture": "#tex"
+        },
+        "up": {
+          "uv": [
+            12.5,
+            8.75,
+            13.5,
+            9.5
+          ],
+          "texture": "#tex"
+        },
+        "down": {
+          "uv": [
+            13.5,
+            8.75,
+            14.5,
+            9.5
+          ],
+          "texture": "#tex"
+        }
+      },
+      "rotation": {
+        "origin": [
+          8,
+          8,
+          8
+        ],
+        "axis": "y",
+        "angle": -9
+      }
+    },
+    {
+      "name": "rune n2",
+      "from": [
+        2,
+        8,
+        -1.01
+      ],
+      "to": [
+        3,
+        11,
+        -1.01
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            14.5,
+            8.75,
+            14.625,
+            9.125
+          ],
+          "texture": "#tex"
+        },
+        "south": {
+          "uv": [
+            14.625,
+            8.75,
+            14.75,
+            9.125
+          ],
+          "texture": "#tex"
+        }
+      },
+      "rotation": {
+        "origin": [
+          8,
+          8,
+          8
+        ],
+        "axis": "y",
+        "angle": 11
+      },
+      "light_emission": 15,
+      "shade": false
+    },
+    {
+      "name": "rune s2",
+      "from": [
+        2,
+        8,
+        17.01
+      ],
+      "to": [
+        3,
+        11,
+        17.01
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            14.75,
+            8.75,
+            14.875,
+            9.125
+          ],
+          "texture": "#tex"
+        },
+        "south": {
+          "uv": [
+            14.875,
+            8.75,
+            15.0,
+            9.125
+          ],
+          "texture": "#tex"
+        }
+      },
+      "rotation": {
+        "origin": [
+          8,
+          8,
+          8
+        ],
+        "axis": "y",
+        "angle": 11
+      },
+      "light_emission": 15,
+      "shade": false
+    },
+    {
+      "name": "rune n4",
+      "from": [
+        4,
+        8,
+        -1.01
+      ],
+      "to": [
+        5,
+        10,
+        -1.01
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            15.0,
+            8.75,
+            15.125,
+            9.0
+          ],
+          "texture": "#tex"
+        },
+        "south": {
+          "uv": [
+            15.125,
+            8.75,
+            15.25,
+            9.0
+          ],
+          "texture": "#tex"
+        }
+      },
+      "rotation": {
+        "origin": [
+          8,
+          8,
+          8
+        ],
+        "axis": "y",
+        "angle": 11
+      },
+      "light_emission": 15,
+      "shade": false
+    },
+    {
+      "name": "rune s4",
+      "from": [
+        4,
+        8,
+        17.01
+      ],
+      "to": [
+        5,
+        10,
+        17.01
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            15.25,
+            8.75,
+            15.375,
+            9.0
+          ],
+          "texture": "#tex"
+        },
+        "south": {
+          "uv": [
+            15.375,
+            8.75,
+            15.5,
+            9.0
+          ],
+          "texture": "#tex"
+        }
+      },
+      "rotation": {
+        "origin": [
+          8,
+          8,
+          8
+        ],
+        "axis": "y",
+        "angle": 11
+      },
+      "light_emission": 15,
+      "shade": false
+    },
+    {
+      "name": "rune n6",
+      "from": [
+        6,
+        8,
+        -1.01
+      ],
+      "to": [
+        7,
+        11,
+        -1.01
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            15.5,
+            8.75,
+            15.625,
+            9.125
+          ],
+          "texture": "#tex"
+        },
+        "south": {
+          "uv": [
+            15.625,
+            8.75,
+            15.75,
+            9.125
+          ],
+          "texture": "#tex"
+        }
+      },
+      "rotation": {
+        "origin": [
+          8,
+          8,
+          8
+        ],
+        "axis": "y",
+        "angle": 11
+      },
+      "light_emission": 15,
+      "shade": false
+    },
+    {
+      "name": "rune s6",
+      "from": [
+        6,
+        8,
+        17.01
+      ],
+      "to": [
+        7,
+        11,
+        17.01
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            15.75,
+            8.75,
+            15.875,
+            9.125
+          ],
+          "texture": "#tex"
+        },
+        "south": {
+          "uv": [
+            15.875,
+            8.75,
+            16.0,
+            9.125
+          ],
+          "texture": "#tex"
+        }
+      },
+      "rotation": {
+        "origin": [
+          8,
+          8,
+          8
+        ],
+        "axis": "y",
+        "angle": 11
+      },
+      "light_emission": 15,
+      "shade": false
+    },
+    {
+      "name": "rune n9",
+      "from": [
+        9,
+        8,
+        -1.01
+      ],
+      "to": [
+        10,
+        10,
+        -1.01
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            0.0,
+            10.25,
+            0.125,
+            10.5
+          ],
+          "texture": "#tex"
+        },
+        "south": {
+          "uv": [
+            0.125,
+            10.25,
+            0.25,
+            10.5
+          ],
+          "texture": "#tex"
+        }
+      },
+      "rotation": {
+        "origin": [
+          8,
+          8,
+          8
+        ],
+        "axis": "y",
+        "angle": 11
+      },
+      "light_emission": 15,
+      "shade": false
+    },
+    {
+      "name": "rune s9",
+      "from": [
+        9,
+        8,
+        17.01
+      ],
+      "to": [
+        10,
+        10,
+        17.01
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            0.25,
+            10.25,
+            0.375,
+            10.5
+          ],
+          "texture": "#tex"
+        },
+        "south": {
+          "uv": [
+            0.375,
+            10.25,
+            0.5,
+            10.5
+          ],
+          "texture": "#tex"
+        }
+      },
+      "rotation": {
+        "origin": [
+          8,
+          8,
+          8
+        ],
+        "axis": "y",
+        "angle": 11
+      },
+      "light_emission": 15,
+      "shade": false
+    },
+    {
+      "name": "rune n11",
+      "from": [
+        11,
+        8,
+        -1.01
+      ],
+      "to": [
+        12,
+        11,
+        -1.01
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            0.5,
+            10.25,
+            0.625,
+            10.625
+          ],
+          "texture": "#tex"
+        },
+        "south": {
+          "uv": [
+            0.625,
+            10.25,
+            0.75,
+            10.625
+          ],
+          "texture": "#tex"
+        }
+      },
+      "rotation": {
+        "origin": [
+          8,
+          8,
+          8
+        ],
+        "axis": "y",
+        "angle": 11
+      },
+      "light_emission": 15,
+      "shade": false
+    },
+    {
+      "name": "rune s11",
+      "from": [
+        11,
+        8,
+        17.01
+      ],
+      "to": [
+        12,
+        11,
+        17.01
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            0.75,
+            10.25,
+            0.875,
+            10.625
+          ],
+          "texture": "#tex"
+        },
+        "south": {
+          "uv": [
+            0.875,
+            10.25,
+            1.0,
+            10.625
+          ],
+          "texture": "#tex"
+        }
+      },
+      "rotation": {
+        "origin": [
+          8,
+          8,
+          8
+        ],
+        "axis": "y",
+        "angle": 11
+      },
+      "light_emission": 15,
+      "shade": false
+    },
+    {
+      "name": "rune n13",
+      "from": [
+        13,
+        8,
+        -1.01
+      ],
+      "to": [
+        14,
+        10,
+        -1.01
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            1.0,
+            10.25,
+            1.125,
+            10.5
+          ],
+          "texture": "#tex"
+        },
+        "south": {
+          "uv": [
+            1.125,
+            10.25,
+            1.25,
+            10.5
+          ],
+          "texture": "#tex"
+        }
+      },
+      "rotation": {
+        "origin": [
+          8,
+          8,
+          8
+        ],
+        "axis": "y",
+        "angle": 11
+      },
+      "light_emission": 15,
+      "shade": false
+    },
+    {
+      "name": "rune s13",
+      "from": [
+        13,
+        8,
+        17.01
+      ],
+      "to": [
+        14,
+        10,
+        17.01
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            1.25,
+            10.25,
+            1.375,
+            10.5
+          ],
+          "texture": "#tex"
+        },
+        "south": {
+          "uv": [
+            1.375,
+            10.25,
+            1.5,
+            10.5
+          ],
+          "texture": "#tex"
+        }
+      },
+      "rotation": {
+        "origin": [
+          8,
+          8,
+          8
+        ],
+        "axis": "y",
+        "angle": 11
+      },
+      "light_emission": 15,
+      "shade": false
+    }
+  ]
+}

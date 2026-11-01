@@ -1,0 +1,150 @@
+{
+  "textures": {
+    "tex": "mastery:item/leviathan_axe",
+    "glow": "mastery:item/leviathan_vein",
+    "particle": "mastery:item/leviathan_axe"
+  },
+  "texture_size": [
+    128,
+    128
+  ],
+  "gui_light": "front",
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [
+        -15,
+        90,
+        0
+      ],
+      "translation": [
+        0.0,
+        11.359,
+        -3.03
+      ],
+      "scale": [
+        0.8,
+        0.8,
+        0.8
+      ]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [
+        -15,
+        -90,
+        0
+      ],
+      "translation": [
+        0.0,
+        12.187,
+        0.061
+      ],
+      "scale": [
+        0.8,
+        0.8,
+        0.8
+      ]
+    },
+    "firstperson_righthand": {
+      "rotation": [
+        -20,
+        90,
+        18
+      ],
+      "translation": [
+        1.5,
+        8.558,
+        -1.33
+      ],
+      "scale": [
+        0.55,
+        0.55,
+        0.55
+      ]
+    },
+    "firstperson_lefthand": {
+      "rotation": [
+        -20,
+        -90,
+        -18
+      ],
+      "translation": [
+        1.5,
+        8.634,
+        0.869
+      ],
+      "scale": [
+        0.55,
+        0.55,
+        0.55
+      ]
+    },
+    "gui": {
+      "rotation": [
+        0,
+        0,
+        -45
+      ],
+      "translation": [
+        -0.707,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "ground": {
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "translation": [
+        -0.34,
+        -0.34,
+        0.0
+      ],
+      "scale": [
+        0.34,
+        0.34,
+        0.34
+      ]
+    },
+    "fixed": {
+      "rotation": [
+        0,
+        0,
+        -45
+      ],
+      "translation": [
+        -0.735,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        0.52,
+        0.52,
+        0.52
+      ]
+    },
+    "head": {
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "translation": [
+        1.6,
+        19.6,
+        0.0
+      ],
+      "scale": [
+        0.8,
+        0.8,
+        0.8
+      ]
+    }
+  }
+}
