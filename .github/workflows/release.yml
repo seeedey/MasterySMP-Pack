@@ -3,7 +3,6 @@ name: Release pack
 # Every push to main zips the pack and publishes it as a new release marked "latest", together with its
 # sha1. The newest pack is always at
 #   https://github.com/seeedey/MasterySMP-Pack/releases/latest/download/MasteryPack.zip
-# newest pack without anyone editing a hash.
 
 on:
   push:
