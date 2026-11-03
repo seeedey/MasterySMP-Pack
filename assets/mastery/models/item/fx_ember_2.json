@@ -1,0 +1,44 @@
+{
+  "textures": {
+    "f": "mastery:item/fx_ember_2",
+    "particle": "mastery:item/fx_ember_2"
+  },
+  "elements": [
+    {
+      "from": [
+        0,
+        0,
+        8
+      ],
+      "to": [
+        16,
+        16,
+        8
+      ],
+      "shade": false,
+      "light_emission": 15,
+      "faces": {
+        "south": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#f",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            16,
+            0,
+            0,
+            16
+          ],
+          "texture": "#f",
+          "tintindex": 0
+        }
+      }
+    }
+  ]
+}

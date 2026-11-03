@@ -1,0 +1,144 @@
+{
+  "textures": {
+    "skin": "mastery:item/rampage_skin",
+    "particle": "mastery:item/rampage_skin"
+  },
+  "elements": [
+    {
+      "from": [
+        4.0,
+        8,
+        6.0
+      ],
+      "to": [
+        12.0,
+        20,
+        10.0
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            5.0,
+            5.0,
+            7.0,
+            8.0
+          ],
+          "texture": "#skin"
+        },
+        "south": {
+          "uv": [
+            8.0,
+            5.0,
+            10.0,
+            8.0
+          ],
+          "texture": "#skin"
+        },
+        "east": {
+          "uv": [
+            4.0,
+            5.0,
+            5.0,
+            8.0
+          ],
+          "texture": "#skin"
+        },
+        "west": {
+          "uv": [
+            7.0,
+            5.0,
+            8.0,
+            8.0
+          ],
+          "texture": "#skin"
+        },
+        "up": {
+          "uv": [
+            5.0,
+            4.0,
+            7.0,
+            5.0
+          ],
+          "texture": "#skin"
+        },
+        "down": {
+          "uv": [
+            7.0,
+            5.0,
+            9.0,
+            4.0
+          ],
+          "texture": "#skin"
+        }
+      }
+    },
+    {
+      "from": [
+        3.75,
+        7.75,
+        5.75
+      ],
+      "to": [
+        12.25,
+        20.25,
+        10.25
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            5.0,
+            9.0,
+            7.0,
+            12.0
+          ],
+          "texture": "#skin"
+        },
+        "south": {
+          "uv": [
+            8.0,
+            9.0,
+            10.0,
+            12.0
+          ],
+          "texture": "#skin"
+        },
+        "east": {
+          "uv": [
+            4.0,
+            9.0,
+            5.0,
+            12.0
+          ],
+          "texture": "#skin"
+        },
+        "west": {
+          "uv": [
+            7.0,
+            9.0,
+            8.0,
+            12.0
+          ],
+          "texture": "#skin"
+        },
+        "up": {
+          "uv": [
+            5.0,
+            8.0,
+            7.0,
+            9.0
+          ],
+          "texture": "#skin"
+        },
+        "down": {
+          "uv": [
+            7.0,
+            9.0,
+            9.0,
+            8.0
+          ],
+          "texture": "#skin"
+        }
+      }
+    }
+  ]
+}

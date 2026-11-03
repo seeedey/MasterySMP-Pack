@@ -2,39 +2,170 @@
   "providers": [
     {
       "type": "bitmap",
-      "file": "mastery:font/pip_off.png",
-      "ascent": 7,
-      "height": 9,
+      "file": "mastery:font/hud_slot.png",
+      "ascent": 17,
+      "height": 22,
       "chars": [
         "\ue000"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mastery:font/pip_on.png",
-      "ascent": 7,
-      "height": 9,
+      "file": "mastery:font/hud_ring.png",
+      "ascent": 17,
+      "height": 22,
       "chars": [
         "\ue001"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mastery:font/pip_ult.png",
-      "ascent": 7,
-      "height": 9,
+      "file": "mastery:font/hud_bar_fill.png",
+      "ascent": 17,
+      "height": 22,
       "chars": [
         "\ue002"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mastery:font/pip_axe.png",
-      "ascent": 7,
-      "height": 9,
+      "file": "mastery:font/hud_bar_frame.png",
+      "ascent": 17,
+      "height": 22,
       "chars": [
         "\ue003"
       ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mastery:font/hud_icon_sword.png",
+      "ascent": 14,
+      "height": 16,
+      "chars": [
+        "\ue010"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mastery:font/hud_icon_axe.png",
+      "ascent": 14,
+      "height": 16,
+      "chars": [
+        "\ue011"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mastery:font/hud_icon_pickaxe.png",
+      "ascent": 14,
+      "height": 16,
+      "chars": [
+        "\ue012"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mastery:font/hud_icon_trident.png",
+      "ascent": 14,
+      "height": 16,
+      "chars": [
+        "\ue013"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mastery:font/hud_icon_creeper.png",
+      "ascent": 14,
+      "height": 16,
+      "chars": [
+        "\ue014"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mastery:font/hud_icon_mace.png",
+      "ascent": 14,
+      "height": 16,
+      "chars": [
+        "\ue015"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mastery:font/hud_icon_archer.png",
+      "ascent": 14,
+      "height": 16,
+      "chars": [
+        "\ue016"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mastery:font/hud_icon_spear.png",
+      "ascent": 14,
+      "height": 16,
+      "chars": [
+        "\ue017"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mastery:font/hud_icon_cart.png",
+      "ascent": 14,
+      "height": 16,
+      "chars": [
+        "\ue018"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mastery:font/hud_stud_gold.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "\ue020"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mastery:font/hud_stud_blood.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "\ue021"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mastery:font/hud_stud_azure.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "\ue022"
+      ]
+    },
+    {
+      "type": "space",
+      "advances": {
+        "\uf000": -1,
+        "\uf100": 1,
+        "\uf001": -2,
+        "\uf101": 2,
+        "\uf002": -4,
+        "\uf102": 4,
+        "\uf003": -8,
+        "\uf103": 8,
+        "\uf004": -16,
+        "\uf104": 16,
+        "\uf005": -32,
+        "\uf105": 32,
+        "\uf006": -64,
+        "\uf106": 64,
+        "\uf007": -128,
+        "\uf107": 128,
+        "\uf008": -256,
+        "\uf108": 256
+      }
     }
   ]
 }

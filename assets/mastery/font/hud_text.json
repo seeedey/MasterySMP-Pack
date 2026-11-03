@@ -1,0 +1,13 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "mastery:font/hud_digits.png",
+      "ascent": 18,
+      "height": 19,
+      "chars": [
+        "0123456789/:"
+      ]
+    }
+  ]
+}

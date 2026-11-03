@@ -1,1 +1,6 @@
-{"hand_animation_on_swap":false,"model":{"type":"minecraft:composite","models":[{"type":"minecraft:model","model":"mastery:item/leviathan_axe/body"},{"type":"minecraft:condition","property":"minecraft:custom_model_data","index":0,"on_true":{"type":"minecraft:model","model":"mastery:item/leviathan_axe/awake"},"on_false":{"type":"minecraft:empty"}}]}}
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "mastery:item/leviathan_axe"
+  }
+}
