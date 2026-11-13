@@ -129,8 +129,8 @@
     {
       "type": "bitmap",
       "file": "mastery:font/bar_icon_sword.png",
-      "ascent": 3,
-      "height": 24,
+      "ascent": -5,
+      "height": 16,
       "chars": [
         "\ue200\ue201\ue202\ue203\ue204\ue205\ue206\ue207\ue208\ue209\ue20a\ue20b\ue20c\ue20d\ue20e\ue20f\ue210"
       ]
@@ -138,8 +138,8 @@
     {
       "type": "bitmap",
       "file": "mastery:font/bar_icon_axe.png",
-      "ascent": 3,
-      "height": 24,
+      "ascent": -5,
+      "height": 16,
       "chars": [
         "\ue220\ue221\ue222\ue223\ue224\ue225\ue226\ue227\ue228\ue229\ue22a\ue22b\ue22c\ue22d\ue22e\ue22f\ue230"
       ]
@@ -147,8 +147,8 @@
     {
       "type": "bitmap",
       "file": "mastery:font/bar_icon_pickaxe.png",
-      "ascent": 3,
-      "height": 24,
+      "ascent": -5,
+      "height": 16,
       "chars": [
         "\ue240\ue241\ue242\ue243\ue244\ue245\ue246\ue247\ue248\ue249\ue24a\ue24b\ue24c\ue24d\ue24e\ue24f\ue250"
       ]
@@ -156,8 +156,8 @@
     {
       "type": "bitmap",
       "file": "mastery:font/bar_icon_trident.png",
-      "ascent": 3,
-      "height": 24,
+      "ascent": -5,
+      "height": 16,
       "chars": [
         "\ue260\ue261\ue262\ue263\ue264\ue265\ue266\ue267\ue268\ue269\ue26a\ue26b\ue26c\ue26d\ue26e\ue26f\ue270"
       ]
@@ -165,8 +165,8 @@
     {
       "type": "bitmap",
       "file": "mastery:font/bar_icon_creeper.png",
-      "ascent": 3,
-      "height": 24,
+      "ascent": -5,
+      "height": 16,
       "chars": [
         "\ue280\ue281\ue282\ue283\ue284\ue285\ue286\ue287\ue288\ue289\ue28a\ue28b\ue28c\ue28d\ue28e\ue28f\ue290"
       ]
@@ -174,8 +174,8 @@
     {
       "type": "bitmap",
       "file": "mastery:font/bar_icon_mace.png",
-      "ascent": 3,
-      "height": 24,
+      "ascent": -5,
+      "height": 16,
       "chars": [
         "\ue2a0\ue2a1\ue2a2\ue2a3\ue2a4\ue2a5\ue2a6\ue2a7\ue2a8\ue2a9\ue2aa\ue2ab\ue2ac\ue2ad\ue2ae\ue2af\ue2b0"
       ]
@@ -183,8 +183,8 @@
     {
       "type": "bitmap",
       "file": "mastery:font/bar_icon_archer.png",
-      "ascent": 3,
-      "height": 24,
+      "ascent": -5,
+      "height": 16,
       "chars": [
         "\ue2c0\ue2c1\ue2c2\ue2c3\ue2c4\ue2c5\ue2c6\ue2c7\ue2c8\ue2c9\ue2ca\ue2cb\ue2cc\ue2cd\ue2ce\ue2cf\ue2d0"
       ]
@@ -192,8 +192,8 @@
     {
       "type": "bitmap",
       "file": "mastery:font/bar_icon_spear.png",
-      "ascent": 3,
-      "height": 24,
+      "ascent": -5,
+      "height": 16,
       "chars": [
         "\ue2e0\ue2e1\ue2e2\ue2e3\ue2e4\ue2e5\ue2e6\ue2e7\ue2e8\ue2e9\ue2ea\ue2eb\ue2ec\ue2ed\ue2ee\ue2ef\ue2f0"
       ]
@@ -201,8 +201,8 @@
     {
       "type": "bitmap",
       "file": "mastery:font/bar_icon_cart.png",
-      "ascent": 3,
-      "height": 24,
+      "ascent": -5,
+      "height": 16,
       "chars": [
         "\ue300\ue301\ue302\ue303\ue304\ue305\ue306\ue307\ue308\ue309\ue30a\ue30b\ue30c\ue30d\ue30e\ue30f\ue310"
       ]
@@ -210,8 +210,8 @@
     {
       "type": "bitmap",
       "file": "mastery:font/bar_icon_shield.png",
-      "ascent": 3,
-      "height": 24,
+      "ascent": -5,
+      "height": 16,
       "chars": [
         "\ue320\ue321\ue322\ue323\ue324\ue325\ue326\ue327\ue328\ue329\ue32a\ue32b\ue32c\ue32d\ue32e\ue32f\ue330"
       ]
